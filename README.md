@@ -5,4 +5,4 @@
 * Teacher and Student classifiers use VGG-16 Architecture which are loaded with the weights of the model trained on Image Net Dataset(Which is known as Transfer Learning).
 * The above model provides a better visual view of the infected parts of plants, Which can be seen in the below image
 <br />
-[<img align="left" alt="Terminal" width="106px" src="./img/Visual view.jpg" />]
+<img align="left" alt="Terminal" width="400px" height = "400px" src="./img/Visual view.jpg" />
