@@ -7,6 +7,9 @@
 <br />
 <img align="left" alt="Terminal" width="400px" height = "400px" src="./img/Visual view.jpg" />
 <br />
+<br />
+<br />
+<br />
 * The output from the Teacher classifier is used as input for the decode classifier whose output is the visual view shown above, Later this image is used as input for the student classifier for training.
 <br />
 <img align="left" alt="Terminal" width="400px" height = "400px" src="./img/Teacher Student Model.jpg" />
