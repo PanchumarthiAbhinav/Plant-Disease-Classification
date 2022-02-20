@@ -1,5 +1,5 @@
 # Plant-Disease-Classification
-##Classification of plant diseases using Convolutional neural networks
+## Classification of plant diseases using Convolutional neural networks
 
 * The model is built based on Teacher-Student Architecture, Which consists of three classifier Teacher, Decoder and Student Classifier
 * Teacher and Student classifiers use VGG-16 Architecture which are loaded with the weights of the model trained on Image Net Dataset(Which is known as Transfer Learning).
