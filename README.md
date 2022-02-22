@@ -17,5 +17,5 @@
 * You could check out the code in the file [Plant Disease Classification](https://github.com/PanchumarthiAbhinav/Plant-Disease-Classification/blob/main/Plant%20Disease%20Classification.ipynb)
 
 
-![Reference](https://arxiv.org/pdf/1905.13523v2.pdf)
+[Reference](https://arxiv.org/pdf/1905.13523v2.pdf)
 
