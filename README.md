@@ -15,7 +15,7 @@
 * We have used the `accuracy` metric for measuring the model
 * The loss function used is `Categorical Cross-Entropy Loss` which is used for tasks where we are classifying more than two categories else `Binary Cross-Entropy Loss` can be used.
 * You could check out the code in the file [Plant Disease Classification](https://github.com/PanchumarthiAbhinav/Plant-Disease-Classification/blob/main/Plant%20Disease%20Classification.ipynb)
-
-
-[Reference](https://arxiv.org/pdf/1905.13523v2.pdf)
+* The above model is built using the reference as provided below.
+* [Reference](https://arxiv.org/pdf/1905.13523v2.pdf)
+ 
 
