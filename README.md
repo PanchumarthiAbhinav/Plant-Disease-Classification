@@ -6,7 +6,6 @@
 * Using transfer learning decreases the computational complexity and also increases the accuracy
 * The dataset used is publicly available [Plant Village Dataset](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)
 * The above model provides a better visual view of the infected parts of plants, Which can be seen in the below image
-
 ![Visual View](https://github.com/PanchumarthiAbhinav/Plant-Disease-Classification/blob/main/img/Visual%20view.jpg)
 * The output from the Teacher classifier is used as input for the decode classifier whose output is the visual view shown above, Later this image is used as input for the student classifier for training.
 ![Teacher Student Model](https://github.com/PanchumarthiAbhinav/Plant-Disease-Classification/blob/main/img/Teacher%20Student%20Model.jpg)
