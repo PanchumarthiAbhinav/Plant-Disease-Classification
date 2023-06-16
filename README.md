@@ -1,8 +1,8 @@
 # Plant-Disease-Classification
 ## Classification of plant diseases using Convolutional neural networks
 
-* The model is built based on Teacher-Student Architecture, Which consists of three classifier Teacher, Decoder and Student Classifier
-* Teacher and Student classifiers use VGG-16 Architecture which are loaded with the weights of the model trained on Image Net Dataset(Which is known as Transfer Learning).
+* The model is built based on Teacher-Student Architecture, Which consists of three classifiers Teacher, Decoder and Student Classifier
+* Teacher and Student classifiers use VGG-16 Architecture which is loaded with the weights of the model trained on Image Net Dataset(Which is known as Transfer Learning).
 * Using transfer learning decreases the computational complexity and also increases the accuracy
 * The dataset used is publicly available [Plant Village Dataset](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)
 * The above model provides a better visual view of the infected parts of plants, Which can be seen in the below image
